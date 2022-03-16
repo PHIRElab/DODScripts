@@ -9,7 +9,7 @@ Repository of python scripts
 - conda create --name phiredod python=3.5 
 
 # Usage
+- conda activate phiredod
 - Open jupyter notebook
 - Open file
-- Run cells
-- Enter file paths
+- Run notebook
