@@ -8,8 +8,7 @@ Repository of python scripts
 # Create Environment
 - conda create --name phiredod python=3.5 
 
-# Usage
+# Usage command line
 - conda activate phiredod
-- Open jupyter notebook
-- Open file
-- Run notebook
+- cd [dodscripts_file_directory]
+- jupyter notebook
