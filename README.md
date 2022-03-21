@@ -10,5 +10,7 @@ Repository of python scripts
 
 # Usage command line
 `conda activate phiredod`
+
 `cd [dodscripts_file_directory]`
+
 `jupyter notebook`
