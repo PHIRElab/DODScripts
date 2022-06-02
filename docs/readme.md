@@ -1,0 +1,19 @@
+# Steps to follow
+- 1. Feature Extraction
+- - Open '1. FeatureExtractTSFEL.ipynb'
+- - Change file name at the beginning to annotation file
+- - Change file name at the end to save features
+- - Run notebook and wait for features to extract and file to save
+- 2. Modify Class Names
+- - Open '2. ModifyClassNames.ipynb'
+- - Change file name at the beginning to train file or validation file
+- - Change class names and numbers to represent the intended class names
+- - Run the notebook and file will be saved in the specifified location
+- 3. Train Model
+- - Open '3. TrainModelPycaret.ipynb'
+- - Change train file name and saved model name
+- - Run the notebook 
+- 4. Assess Predictions on Validation File (unseen data)
+- - Open '4. PredictUnseenPycaret.ipynb'
+- - Change validation file name at the beginning 
+- - Run the notebook and assess predictions
